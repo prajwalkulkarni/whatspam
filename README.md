@@ -8,7 +8,8 @@ Send spam messages on Whatsapp.
     git clone https://github.com/prajwalkulkarni/whatspam.git </li>
   
    <li>This script uses a web automation tool called Selenium.
-    pip install -u selenium</li>
+    </li>
+  >pip install -u selenium
    <li>Run the script and follow the on-screen instructions.</li>
  </ul>
    
