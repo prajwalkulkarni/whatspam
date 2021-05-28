@@ -9,9 +9,11 @@ Send spam messages on Whatsapp.
   
    <li>This script uses a web automation tool called Selenium.
     </li>
+  
+  </ul>
   >pip install -u selenium
    <li>Run the script and follow the on-screen instructions.</li>
- </ul>
+ 
    
    <b> Note: Repeated spamming might get your account deleted from whatsapp,please use it for fun only.</b>
    
