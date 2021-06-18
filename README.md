@@ -16,6 +16,7 @@ Send spam messages on Whatsapp.
   </ul>
  
  >pip install -u selenium
+ ><br>
  >python spam.py (Run the script)
    
    <b> Note: Repeated spamming might get your account deleted from whatsapp,please use it for fun only.</b>
