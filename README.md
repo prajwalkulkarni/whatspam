@@ -15,7 +15,7 @@ Send spam messages on Whatsapp.
    <li>Run the script and follow the on-screen instructions.</li>
   </ul>
  
- >pip install -u selenium
+ >pip install -u selenium (Installing selenium module)
  ><br>
  >python spam.py (Run the script)
    
