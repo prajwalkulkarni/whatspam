@@ -4,7 +4,7 @@ Send spam messages on Whatsapp.
 
 # INSTALLATION:
 <ul>
-  <li>Clone the repository <br>
+  <li>Clone this repository <br>
     git clone https://github.com/prajwalkulkarni/whatspam.git </li>
   
    <li>This script uses a web automation tool called Selenium.
